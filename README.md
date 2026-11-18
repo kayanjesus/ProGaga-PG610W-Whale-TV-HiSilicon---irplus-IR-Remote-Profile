@@ -20,4 +20,4 @@ Because this projector model (and similar Whale TV / HiSilicon white-label proje
 5.  ## Download link: https://play.google.com/store/search?q=irplus&c=apps&hl=pt_BR
 
 
-By thisantoscompras100
+## By thisantoscompras100
