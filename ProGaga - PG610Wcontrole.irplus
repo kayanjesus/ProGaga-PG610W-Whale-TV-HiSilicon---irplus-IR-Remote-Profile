@@ -1,0 +1,32 @@
+<irplus>
+ <device manufacturer="ProGaga" model="PG610W_234516479" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+  <button label="&#9211; DESLIGAR" labelSize="16.0" span="4" backgroundColor="FFD12C2C">0x10ef 0xd02f</button>
+  <button label="&#9211; LIGAR" labelSize="16.0" span="4" backgroundColor="FF1E7854">0x00ff 0x39c6</button>
+  <button label="&#9835; MUTE" labelSize="16.0" span="4" backgroundColor="FF333333">0x40bf 0x18e7</button>
+  <button label="&#65291; VOLUME +" labelSize="19.0" span="6" backgroundColor="FF2A4C94">0x40bf 0x12ed</button>
+  <button label="&#65293; VOLUME -" labelSize="19.0" span="6" backgroundColor="FF2A4C94">0x40bf 0x02fd</button>
+  <button label="&#9635; HDMI / USB" labelSize="16.0" span="4" backgroundColor="FF1E7854">0x40bf 0xb04f</button>
+  <button label="&#9636; PROPOR&#199;&#195;O" labelSize="16.0" span="4" backgroundColor="FF1E7854">0x40bf 0x30cf</button>
+  <button label="&#9671; TRAP&#201;ZIO" labelSize="16.0" span="4" backgroundColor="FF1E7854">0x807f 0x52ad</button>
+  <button label="&#9678; FOCO AUTO" labelSize="16.0" span="4" backgroundColor="FF0D9488">0x10ef 0x708f</button>
+  <button label="F+ FOCO +" labelSize="16.0" span="4" backgroundColor="FF0D9488">0x807f 0x32cd</button>
+  <button label="F&#8722; FOCO -" labelSize="16.0" span="4" backgroundColor="FF0D9488">0x807f 0x807f</button>
+  <button label="&#8962; HOME" labelSize="16.0" span="4" backgroundColor="FF6B21A8">0x40bf 0xd827</button>
+  <button label="&#9776; MENU" labelSize="16.0" span="4" backgroundColor="FF6B21A8">0x40bf 0x6897</button>
+  <button label="&#8630; VOLTAR" labelSize="16.0" span="4" backgroundColor="FF6B21A8">0x40bf 0x58a7</button>
+  <button label="&#9881; CONFIGURA&#199;&#213;ES" labelSize="19.0" span="6" backgroundColor="FFD97706">0x40bf 0xe21d</button>
+  <button label="&#8982; MOUSE VIRTUAL" labelSize="19.0" span="6" backgroundColor="FF555555">0x10ef 0x827d</button>
+  <button label="" labelSize="16.0" span="4" backgroundColor="00000000"> </button>
+  <button label="&#9650; CIMA" labelSize="16.0" span="4" backgroundColor="FF2E5B88">0x40bf 0x48b7</button>
+  <button label="" labelSize="16.0" span="4" backgroundColor="00000000"> </button>
+  <button label="&#9664; ESQUERDA" labelSize="16.0" span="4" backgroundColor="FF2E5B88">0x40bf 0x8877</button>
+  <button label="&#9679; OK" labelSize="16.0" span="4" backgroundColor="FFD97706">0x40bf 0xa857</button>
+  <button label="DIREITA &#9654;" labelSize="16.0" span="4" backgroundColor="FF2E5B88">0x40bf 0x08f7</button>
+  <button label="" labelSize="16.0" span="4" backgroundColor="00000000"> </button>
+  <button label="&#9660; BAIXO" labelSize="16.0" span="4" backgroundColor="FF2E5B88">0x40bf 0xc837</button>
+  <button label="" labelSize="16.0" span="4" backgroundColor="00000000"> </button>
+  <button label="&#8645; INVERTER TELA" labelSize="16.0" span="4">0x40bf 0xf00f</button>
+  <button label="&#9881; MENU F&#193;BRICA" labelSize="16.0" span="4" backgroundColor="FFB45309">0x807f 0x5aa5</button>
+  <button label="&#10226; RESET F&#193;BRICA" labelSize="16.0" span="4" backgroundColor="FF991B1B">0x807f 0xa05f</button>
+ </device>
+</irplus>
