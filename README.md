@@ -1,6 +1,3 @@
-# ProGaga-PG610W-Whale-TV-HiSilicon---irplus-IR-Remote-Profile
-
-
 # ProGaga PG610W (Whale TV / HiSilicon) - irplus IR Remote Profile
 
 Custom XML infrared remote control layout for the **ProGaga PG610W** projector using the `WINLIRC_NEC1` protocol for the **irplus** Android app.
