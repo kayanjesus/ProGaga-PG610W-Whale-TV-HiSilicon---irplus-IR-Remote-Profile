@@ -17,4 +17,7 @@ Because this projector model (and similar Whale TV / HiSilicon white-label proje
 3. Open **irplus**, open the side menu, and select **Import**.
 4. Choose the downloaded file and start controlling your projector.
 
-5.  ## Download thes link: https://play.google.com/store/search?q=irplus&c=apps&hl=pt_BR
+5.  ## Download link: https://play.google.com/store/search?q=irplus&c=apps&hl=pt_BR
+
+
+By thisantoscompras100
